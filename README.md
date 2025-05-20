@@ -1,4 +1,4 @@
 # Apnacollege-Demo
 This is my first Git Repository
 <br>
-Author-Usman Suleman.
+Author-(Usman Suleman).
